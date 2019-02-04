@@ -1,3 +1,6 @@
 # Hotstar-imdb-scrapper
 
-Exactly what title suggests..
+### Getting started
+
+* Clone the repository
+* run code by changing query
